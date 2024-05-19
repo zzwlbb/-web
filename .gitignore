@@ -1,0 +1,4 @@
+# 忽略文件 和文件后缀.json
+node-modules
+src
+*.json
